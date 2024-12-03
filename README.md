@@ -28,7 +28,7 @@ You can use `dot -V` to verify the installation.
 
 ## Author, listed alphabetically by last name
 
-Yixun Kang (yixun_kang@brown.edu), David Ning (zhenglin_ning@brown.edu), Liang Zhang (liang_zhang@brown.edu)
+Yixun Kang (yixun_kang@brown.edu), David Ning (zhenglin_ning@brown.edu), Liang Zhang (liang_zhang1@brown.edu)
 
 ## License
 
